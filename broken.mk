@@ -18,7 +18,7 @@ DEVICE_PACKAGE_OVERLAYS += device/asus/moorefield/fhd/overlay
 PRODUCT_RUNTIMES := runtime_libart_default
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := cm_fhd
+PRODUCT_NAME := broken_fhd
 PRODUCT_BRAND := asus
 PRODUCT_MODEL := ASUS_Z00A
 PRODUCT_MANUFACTURER := asus
