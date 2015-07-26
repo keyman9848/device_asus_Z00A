@@ -67,7 +67,7 @@ MALLOC_IMPL := dlmalloc
 
 # Inline kernel building
 TARGET_KERNEL_CONFIG := fhd_defconfig
-TARGET_KERNEL_SOURCE := kernel/asus/moorefield
+TARGET_KERNEL_SOURCE := kernel/asus/Z00A
 TARGET_KERNEL_ARCH := x86_64
 BOARD_KERNEL_IMAGE_NAME := bzImage
 

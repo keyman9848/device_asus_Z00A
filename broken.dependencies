@@ -1,9 +1,9 @@
 [
   {
     "remote":       "github",
-    "repository":   "CM-zenfone2/android_kernel_asus_moorefield",
-    "target_path":  "kernel/asus/moorefield",
-    "branch":       "cm-12.1"
+    "repository":   "DirtyUnicorns/android_kernel_asus_Z00A",
+    "target_path":  "kernel/asus/Z00A",
+    "branch":       "loolipop-caf"
   },
   {
     "remote":       "github",
