@@ -1,13 +1,13 @@
 [
   {
     "remote":       "github",
-    "repository":   "DirtyUnicorns/android_kernel_asus_Z00A",
+    "repository":   "deadman96385/android_kernel_asus_Z00A",
     "target_path":  "kernel/asus/Z00A",
-    "branch":       "lollipop-caf"
+    "branch":       "CM"
   },
   {
     "remote":       "github",
-    "repository":   "DirtyUnicorns/android_vendor_asus",
+    "repository":   "deadman96385/android_vendor_asus",
     "target_path":  "vendor/asus",
     "branch":       "lollipop-caf"
   },
